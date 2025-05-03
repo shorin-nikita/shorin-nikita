@@ -12,13 +12,13 @@ n8n, Make, OpenAI, Bitrix24, Supabase — это мой рабочий стек.
 
 ## 📁 Репозитории
 
-### 🔷 [n8n-workflows](https://github.com/yourusername/n8n-workflows)  
+### 🔷 [n8n-io](https://github.com/shorin-nikita/n8n-io)  
 Low-code автоматизации на базе n8n:  
 – Telegram-боты, AI-ассистенты, Supabase, SQL  
 – Обработка лидов, чат-боты, логика и фильтрация  
 – Готовые воркфлоу с понятной архитектурой  
 
-### 🟣 [make-blueprints](https://github.com/yourusername/make-blueprints)  
+### 🟣 [make-com](https://github.com/shorin-nikita/make-com)  
 No-code шаблоны на Make (ex-Integromat):  
 – Подключение OpenAI, Google Calendar/Sheets, Telegram, Битрикс24  
 – Голос, изображения, мультимодальность  
